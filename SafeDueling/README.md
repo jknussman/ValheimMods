@@ -1,0 +1,1 @@
+﻿when you die from a player in PVP, you will not lose your skills

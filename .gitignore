@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/3rdPartyDLLs/UnityEngine.dll
+/3rdPartyDLLs/UnityEngine.CoreModule.dll
+/3rdPartyDLLs/BepInEx.dll
+/3rdPartyDLLs/assembly_valheim.dll
+/3rdPartyDLLs/0Harmony.dll

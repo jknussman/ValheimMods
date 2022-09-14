@@ -1,0 +1,7 @@
+﻿{
+	"name":"Zero_Cost_Sneaking",
+	"description":"sneaking costs 0 stamina",
+	"version_number":"1.0.0",
+	"dependencies":["denikson-BepInExPack_Valheim-5.4.1900"],
+	"website_url":""
+}

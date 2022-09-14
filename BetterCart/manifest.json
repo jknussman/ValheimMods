@@ -1,0 +1,7 @@
+﻿{
+	"name":"Better_Cart",
+	"description":"Allows for customization of minimum and maximum mass of Carts.",
+	"version_number":"1.1.0",
+	"dependencies":["denikson-BepInExPack_Valheim-5.4.1900"],
+	"website_url":""
+}

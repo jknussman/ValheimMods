@@ -1,0 +1,7 @@
+﻿{
+	"name":"No_Skill_Loss_in_PVP",
+	"description":"when you die from a player in PVP, you will not lose your skills ",
+	"version_number":"1.0.0",
+	"dependencies":["denikson-BepInExPack_Valheim-5.4.1900"],
+	"website_url":""
+}
